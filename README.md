@@ -4,9 +4,8 @@ A simple Swift-based game for iOS to play a game of Tic-Tac-Toe against an AI or
 bunch of different states, the only possibility for it is to either win or draw the game.
 
 ## Screenshots
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-22 at 16 57 35](https://github.com/user-attachments/assets/54261b68-fc75-43db-8b07-738031001186)
-
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-08-22 at 16 58 16](https://github.com/user-attachments/assets/021e4d6e-e1d0-4aa1-9055-a5321f864faf)
+<img src="https://github.com/user-attachments/assets/54261b68-fc75-43db-8b07-738031001186" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/021e4d6e-e1d0-4aa1-9055-a5321f864faf" width="200" height="400"/>
 
 ## Try it out
 

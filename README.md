@@ -7,6 +7,6 @@ bunch of different states, the only possibility for it is to either win or draw 
 ## Try it out
 1. Clone the repository to your system using
     ```bash
-    git clone 
+    git clone https://github.com/AbhijayNair/tic-tac-toe.git
     ```
 2. Open the xcodeproj file on Xcode, choose your target phone and run it.

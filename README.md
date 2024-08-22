@@ -7,6 +7,9 @@ bunch of different states, the only possibility for it is to either win or draw 
 <img src="https://github.com/user-attachments/assets/54261b68-fc75-43db-8b07-738031001186" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/021e4d6e-e1d0-4aa1-9055-a5321f864faf" width="200" height="400"/>
 
+## Motivation
+For one of my AI classes during my master's program, I wrote a program in LISP to implement the Minimax algorithm with alpha-beta pruning to play TicTacToe with an AI on the terminal. After I was done with the class about 2 years ago, I stashed that project somewhere in a compressed directory. A few days before this creating this game, I found that folder and thought it would be cool to create a game for iOS using the logic I used back then for insipration. With a couple of tweaks and optimizations, I re-wrote the algorithm, addded an animated background with some basic UI elements and thus created my FIRST game, Noughts & Crosses!
+
 ## Try it out
 
 1. Clone the repository to your system using
